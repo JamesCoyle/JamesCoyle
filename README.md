@@ -6,7 +6,7 @@
 
 I'm a freelance web developer based in Hull, UK. 
 
-My main focus is on frontend development and I'm currently improving my design and user experience skills though I can also work full stack when needed. I've worked on several websites, apps, and browser extensions, some of which can be found here on [GitHub](https://github.com/JamesCoyle?tab=repositories) and others can be found on my [portfolio](https://james-coyle.dev/#portfolio). 
+My main focus is on frontend development and I'm currently improving my design and user experience skills. I can also work full stack when needed. I've worked on several websites, apps, and browser extensions, some of which can be found here on [GitHub](https://github.com/JamesCoyle?tab=repositories) and others can be found on my [portfolio](https://james-coyle.dev/#portfolio). 
 
 I'm currently a core contributor to the [MaterialDesignIcons](https://github.com/Templarian/MaterialDesign) project and maintain several icon components as well as working though issues and providing ideas. I also dabble with electronics and 3D printing when I have time. 
 
