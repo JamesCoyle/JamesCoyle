@@ -1,4 +1,8 @@
-# [![James Coyle](https://james-coyle.dev/images/logo.svg)](https://james-coyle.dev/)
+<p align="center">
+  <img width="460" height="300" src="https://james-coyle.dev/images/logo.svg">
+</p>
+
+---
 
 I'm a freelance web developer based in Hull, UK. 
 
