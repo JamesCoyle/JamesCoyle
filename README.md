@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://james-coyle.dev/images/logo.svg">
+  <a href="https://james-coyle.dev/"><img width="460" height="300" src="https://james-coyle.dev/images/logo.svg"></a>
 </p>
 
 ---
