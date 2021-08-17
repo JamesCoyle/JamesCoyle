@@ -12,7 +12,7 @@ I'm currently a core contributor to the [MaterialDesignIcons](https://github.com
 
 ## Prefered tools
 
-I prefer to keep my projects as vanilla as possible because I hate spending hours configuring things and waiting for builds to complete. Currently I use the Svelte framework for front end UI using Sapper/SvelteKit because it is simple, lightweight, requires zero config after initializing the project, and provides server side rendering by default. I use SCSS within Svelte components purely for the nesting it provides as it works out of the box with SvelteKit. Everything else is vanilla HTML, CSS, and JS. 
+I prefer to keep my projects as vanilla as possible because I hate spending hours configuring things and waiting for builds to complete. Currently I use the Svelte framework for front end UI using Sapper/SvelteKit because it is simple, lightweight, requires minimal config after initializing the project, and provides server side rendering by default. I use SCSS within Svelte components purely for the nesting it provides. Everything else is vanilla HTML, CSS, and JS. 
 
 My IDE of choice is VSCode which I use for all web based projects, arduino projects, and most other things. I also use Visual Studio for the rare occations I need to work on .NET based applications. I use PNPM to manage JavaScript packages as it's fast, efficient, and just does things the right way. 
 
