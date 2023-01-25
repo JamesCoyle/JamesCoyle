@@ -21,7 +21,7 @@ My IDE of choice is VSCode which I use for all web based projects, arduino proje
 - [Portfolio website](https://james-coyle.dev/)
 - [StackOverflow profile](https://stackoverflow.com/users/1994081/james-coyle)
 - [Development updates](https://ko-fi.com/jamescoyle)
-- [Personal updates](https://twitter.com/JamesCoyle95) 
+- [Personal updates](https://techhub.social/@JamesCoyle) 
 
 ## Get in touch
 
